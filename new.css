@@ -53,32 +53,6 @@ body{
 
 
 
-.container h3{
-    display:inline-block;
-    margin-top: 80%;
-    margin-left: 110%;
-    
-}
-.container a{
-    letter-spacing: 2px;
-    font-weight:bold;
-    text-decoration:underline;
-    text-transform: uppercase;
-    color:#fff;
-    font-size:20px;
-
-    border-radius: 15px;
-    transition: 0.6s ease;
-    
-    
-  
-}
-.container a:hover{
-    border:2px solid #fff;
-    background-color: #fff;
-	color: #23527c;
-
-}
 
   h6{
     margin:0;
