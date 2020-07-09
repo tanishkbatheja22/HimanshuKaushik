@@ -262,7 +262,7 @@ body{
             text-align: center;
             font-weight: bold;
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-		font-color: #fff;
+		font-color: #ffffff;
         }
 .banner_image{
    display: flex;
@@ -401,6 +401,7 @@ h3:hover{
             text-align: center;
             font-weight: bold;
             font-size: 20px;
+		font-color: #ffffff
         }
 
         .bb {
