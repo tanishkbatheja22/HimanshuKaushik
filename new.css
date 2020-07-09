@@ -66,14 +66,14 @@ body{
             justify-content: center;
             align-items: center;
             height: 35px;
-        margin-right: 20px;
+        margin-right: 30px;
 }
 .navigation-menu a{
   text-decoration: none;
-            margin: 15px 20px;
-            font-size: 20px;
-            color: white;
-            border: silver;
+            margin: 15px 5px;
+            font-size: 15px;
+            color: #fff;
+            border: #808080;
  
   
     transition: 0.6s ease;
@@ -94,6 +94,7 @@ body{
             text-align: center;
             font-weight: bold;
             font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+		font-color: #ffff00;
         }
 .banner_image{
    display: flex;
@@ -221,8 +222,10 @@ h3:hover{
 
             border: 2px solid skyblue;
             box-shadow: 3px 3px 10px 5px rgb(55, 140, 173), -3px -3px 10px 5px rgb(55, 140, 173);
-            margin: 34px 45px;
+           
             padding: 20px;
+	  max-width:100%;
+	  max-height:100%;
 
         }
 
