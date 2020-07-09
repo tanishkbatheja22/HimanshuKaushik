@@ -64,6 +64,7 @@ body{
   }
   span9{
     font-size: 15em;
+	  font-size:60;
     line-height: 1;
     text-transform: uppercase;
     font-family: 'Lato', sans-serif;
@@ -357,7 +358,7 @@ margin-top: 40px;
 h3{
     padding:20px 20px;
     display:inline-block;
-    color:#fff;
+    color:#008000;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 2px;
